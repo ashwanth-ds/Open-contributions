@@ -5,7 +5,7 @@ Classification
 Decision Trees
 Random Forests
 Ensemble Learning Methods
-Dimensionality Redcution
+Dimensionality Reduction
 Support Vector Machines
 Bias-Variance
 Evalutation Metrics (precision, recall, F1)
